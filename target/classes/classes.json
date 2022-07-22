@@ -1,0 +1,17 @@
+[
+  {
+    "_class": "com.deepak.school.entity.Class",
+    "id": 1,
+    "name": "One"
+  },
+  {
+    "_class": "com.deepak.school.entity.Class",
+    "id": 2,
+    "name": "Two"
+  },
+  {
+    "_class": "com.deepak.school.entity.Class",
+    "id": 3,
+    "name": "Three"
+  }
+]

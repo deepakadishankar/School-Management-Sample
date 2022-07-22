@@ -1,0 +1,141 @@
+[
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":1,
+    "name":"Tamil",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 1
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":2,
+    "name":"English",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 1
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":3,
+    "name":"Maths",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 1
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id": 4,
+    "name": "Science",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 1
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id": 5,
+    "name": "Social",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 1
+    }
+  },
+
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":6,
+    "name":"Tamil",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 2
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":7,
+    "name":"English",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 2
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":8,
+    "name":"Maths",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 2
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id": 9,
+    "name": "Science",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 2
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id": 10,
+    "name": "Social",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 2
+    }
+  },
+
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":11,
+    "name":"Tamil",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 3
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":12,
+    "name":"English",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 3
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id":13,
+    "name":"Maths",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 3
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id": 14,
+    "name": "Science",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 3
+    }
+  },
+  {
+    "_class": "com.deepak.school.entity.Subject",
+    "id": 15,
+    "name": "Social",
+    "class": {
+      "_class": "com.deepak.school.entity.Class",
+      "id": 3
+    }
+  }
+
+
+]

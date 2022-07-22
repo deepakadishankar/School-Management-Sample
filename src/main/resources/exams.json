@@ -1,0 +1,8 @@
+[
+  {
+    "_class": "com.deepak.school.entity.Exam",
+    "id": 3,
+    "name": "First Trimester",
+    "a_class_id":2
+  }
+]

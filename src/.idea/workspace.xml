@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d287e131-9a82-4eb5-8ff2-36ffad7f7a00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../back/src/main/java/com/example/spring_boot_vue_js/model/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/java/com/deepak/school/SchoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/java/com/deepak/school/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/java/com/deepak/school/entity/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/java/com/deepak/school/entity/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/java/com/deepak/school/entity/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/java/com/deepak/school/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/src/main/resources/db/migration/V1__Initialize_schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gittest" beforeDir="false" afterPath="$PROJECT_DIR$/../../gittest" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BcV1IWWOcpPbZdRELqbJmBTooS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d287e131-9a82-4eb5-8ff2-36ffad7f7a00" name="Changes" comment="" />
+      <created>1657205143776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657205143776</updated>
+    </task>
+    <servers />
+  </component>
+</project>
